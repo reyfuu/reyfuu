@@ -22,7 +22,7 @@
 const reyfuu = {
   role:       "Full-Stack Developer",
   passion:    "Building clean, scalable, and beautiful web apps",
-  frontend:   ["JavaScript", "React", "Vue.js"],
+  frontend:   ["JavaScript", "React", "Vue.js","Next.js"],
   backend:    ["PHP", "Laravel", "Express.js", "Go", "Python"],
   databases:  ["MySQL", "PostgreSQL", "MongoDB"],
   currentlyLearning: "Something cool... 🚀",
@@ -41,6 +41,7 @@ const reyfuu = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -63,25 +64,6 @@ const reyfuu = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=reyfuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyfuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F64F59,100:6C63FF&height=120&section=footer" width="100%"/>
-
   *"First, solve the problem. Then, write the code."*
 
 </div>
