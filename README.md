@@ -64,6 +64,6 @@ const reyfuu = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-  *"First, solve the problem. Then, write the code."*
+  *"You can outsource intelegence but you cannot outsource understanding."*
 
 </div>
