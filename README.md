@@ -28,6 +28,7 @@ const reyfuu = {
   cloudDevOps: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"],
   testing:    ["Selenium", "Appium", "TestRail"],
   projectMgmt: ["Jira"],
+  ai:          ["PyTorch", "LangChain", "LangGraph", "CrewAI", "QLoRA", "MCP", "AI Agents"],
   os:         ["Linux", "Fedora"],
   currentlyLearning: "Something cool... 🚀",
   funFact:    "I debug with console.log and I'm not ashamed 😄",
@@ -95,6 +96,15 @@ const reyfuu = {
 
 ### 📋 Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🤖 AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=crewai&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4500?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🧰 Tools & OS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
