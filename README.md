@@ -23,7 +23,7 @@ const reyfuu = {
   role:       "Full-Stack Developer",
   passion:    "Building clean, scalable, and beautiful web apps",
   frontend:   ["JavaScript", "TypeScript", "React", "Vue.js", "Next.js", "Nuxt.js"],
-  backend:    ["PHP", "Laravel", "NestJS", "Go", "Gin", "Fiber", "Python", "Django", "FastAPI", "Flask", "AdonisJS", "Ruby", "Ruby on Rails", "Java", "Spring Boot", "C#", "C++"],
+  backend:    ["PHP", "Laravel", "NestJS", "Go", "Gin", "Fiber", "Python", "Django", "FastAPI", "Flask", "AdonisJS", "Ruby", "Ruby on Rails", "Java", "Spring Boot", ".NET", "Flutter", "C#", "C++"],
   databases:  ["PostgreSQL", "MySQL", "MariaDB", "MongoDB", "Oracle", "Supabase", "Firebase"],
   cloudDevOps: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"],
   testing:    ["Selenium", "Appium", "TestRail"],
@@ -69,6 +69,8 @@ const reyfuu = {
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🗄️ Databases & BaaS
