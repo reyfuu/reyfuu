@@ -22,9 +22,9 @@
 const reyfuu = {
   role:       "Full-Stack Developer",
   passion:    "Building clean, scalable, and beautiful web apps",
-  frontend:   ["JavaScript", "TypeScript", "React", "Vue.js", "Next.js"],
-  backend:    ["PHP", "Laravel", "NestJS", "Go", "Gin", "Fiber", "Python", "Django", "AdonisJS", "Ruby"],
-  databases:  ["PostgreSQL", "MySQL", "MariaDB", "MongoDB", "Supabase"],
+  frontend:   ["JavaScript", "TypeScript", "React", "Vue.js", "Next.js", "Nuxt.js", "Vite"],
+  backend:    ["PHP", "Laravel", "NestJS", "Go", "Gin", "Fiber", "Python", "Django", "FastAPI", "Flask", "AdonisJS", "Ruby", "Ruby on Rails", "C#", "C++"],
+  databases:  ["PostgreSQL", "MySQL", "MariaDB", "MongoDB", "Supabase", "Firebase"],
   cloudDevOps: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"],
   os:         ["Linux", "Fedora"],
   currentlyLearning: "Something cool... 🚀",
@@ -45,8 +45,10 @@ const reyfuu = {
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -57,14 +59,20 @@ const reyfuu = {
 ![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=gofiber&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & BaaS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
