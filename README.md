@@ -29,6 +29,7 @@ const reyfuu = {
   testing:    ["Selenium", "Appium", "TestRail"],
   projectMgmt: ["Jira"],
   ai:          ["PyTorch", "LangChain", "LangGraph", "CrewAI", "QLoRA", "MCP", "AI Agents"],
+  aiTools:    ["OpenAI Codex", "Hermes", "n8n", "Claude Code"],
   os:         ["Linux", "Fedora"],
   currentlyLearning: "Something cool... 🚀",
   funFact:    "I debug with console.log and I'm not ashamed 😄",
@@ -105,6 +106,12 @@ const reyfuu = {
 ![QLoRA](https://img.shields.io/badge/QLoRA-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4500?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛠️ AI Tools
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-8B5CF6?style=for-the-badge&logo=nousresearch&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 🧰 Tools & OS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
