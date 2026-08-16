@@ -22,10 +22,12 @@
 const reyfuu = {
   role:       "Full-Stack Developer",
   passion:    "Building clean, scalable, and beautiful web apps",
-  frontend:   ["JavaScript", "TypeScript", "React", "Vue.js", "Next.js", "Nuxt.js", "Vite"],
-  backend:    ["PHP", "Laravel", "NestJS", "Go", "Gin", "Fiber", "Python", "Django", "FastAPI", "Flask", "AdonisJS", "Ruby", "Ruby on Rails", "C#", "C++"],
-  databases:  ["PostgreSQL", "MySQL", "MariaDB", "MongoDB", "Supabase", "Firebase"],
+  frontend:   ["JavaScript", "TypeScript", "React", "Vue.js", "Next.js", "Nuxt.js"],
+  backend:    ["PHP", "Laravel", "NestJS", "Go", "Gin", "Fiber", "Python", "Django", "FastAPI", "Flask", "AdonisJS", "Ruby", "Ruby on Rails", "Java", "Spring Boot", "C#", "C++"],
+  databases:  ["PostgreSQL", "MySQL", "MariaDB", "MongoDB", "Oracle", "Supabase", "Firebase"],
   cloudDevOps: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"],
+  testing:    ["Selenium", "Appium", "TestRail"],
+  projectMgmt: ["Jira"],
   os:         ["Linux", "Fedora"],
   currentlyLearning: "Something cool... 🚀",
   funFact:    "I debug with console.log and I'm not ashamed 😄",
@@ -46,7 +48,6 @@ const reyfuu = {
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend & Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -54,6 +55,8 @@ const reyfuu = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=gofiber&logoColor=white)
@@ -72,6 +75,7 @@ const reyfuu = {
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Cloud & DevOps
@@ -83,6 +87,14 @@ const reyfuu = {
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🧪 Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
+
+### 📋 Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 🧰 Tools & OS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
