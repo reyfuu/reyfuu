@@ -23,9 +23,9 @@ const reyfuu = {
   role:       "Full-Stack Developer",
   passion:    "Building clean, scalable, and beautiful web apps",
   frontend:   ["JavaScript", "TypeScript", "React", "Vue.js", "Next.js", "Nuxt.js"],
-  backend:    ["PHP", "Laravel", "NestJS", "Go", "Gin", "Fiber", "Python", "Django", "FastAPI", "Flask", "AdonisJS", "Ruby", "Ruby on Rails", "Java", "Spring Boot", ".NET", "Flutter", "C#", "C++"],
+  backend:    ["PHP", "Laravel", "NestJS", "Go", "Gin", "Fiber", "Python", "Django", "FastAPI", "Flask", "AdonisJS", "Ruby", "Ruby on Rails", "Java", "Spring Boot", ".NET", "Flutter", "C#", "C++", "Rust", "Axum"],
   databases:  ["PostgreSQL", "MySQL", "MariaDB", "MongoDB", "Oracle", "Supabase", "Firebase"],
-  cloudDevOps: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"],
+  cloudDevOps: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes", "Nginx", "Terraform", "Jenkins", "GitHub Actions"],
   testing:    ["Selenium", "Appium", "TestRail"],
   projectMgmt: ["Jira"],
   ai:          ["PyTorch", "LangChain", "LangGraph", "CrewAI", "QLoRA", "MCP", "AI Agents"],
@@ -72,6 +72,8 @@ const reyfuu = {
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🗄️ Databases & BaaS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -88,6 +90,7 @@ const reyfuu = {
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
